@@ -10,3 +10,15 @@
 + JavaScript
 + Git and GitHub
 + Command line
++ Node
+
+## How to use
+Execute main.js using Node environment
+```
+0. Open terminal and cd to project directory
+1. npm init
+2. npm install prompt-sync
+3. Node main.js
+4. Users will be asked for inputs
+5. Outputs Mad Lib like game
+```
